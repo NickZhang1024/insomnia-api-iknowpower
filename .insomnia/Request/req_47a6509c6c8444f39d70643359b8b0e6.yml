@@ -1,0 +1,34 @@
+_id: req_47a6509c6c8444f39d70643359b8b0e6
+type: Request
+parentId: fld_d83def7e78a44c4c8600e75b8375dfd1
+modified: 1652835839984
+created: 1652673188868
+url: http://127.0.0.1:7435/api/agv-elec/cust-dev-power-data
+name: 01.亚运村居民功率数据（智能微断）
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_f4c20342aba742cd94b30ec62db54fa2
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_7591631ba23c4c23bf82bbd4eb06986c
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODQyMDgxODIsInVzZXJfbmFtZSI6IllZQ0dMWSIsImp0aSI6IlFDaGg4aUVZd2ZFaHBUa1JkMFpBV3A4aGx2OCIsImNsaWVudF9pZCI6Im9wZW4tYXBpIiwic2NvcGUiOlsiYWxsIl19.ZfpeB8yrYBTDfAbhvum3kGl3hvLACF2iwFOI4frpQng
+  prefix: ""
+  disabled: false
+metaSortKey: -1652835128749
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

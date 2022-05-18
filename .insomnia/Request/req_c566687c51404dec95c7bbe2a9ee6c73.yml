@@ -1,0 +1,26 @@
+_id: req_c566687c51404dec95c7bbe2a9ee6c73
+type: Request
+parentId: fld_0779ed52918a47429e77df17464fe77e
+modified: 1652672155753
+created: 1652672120229
+url: http://auth.ebike-charge.com/oauth/token?grant_type=password&username=YYCGLY&password=YYCGLY@@Ag@2k22o4&scope=all
+name: token-prod-openapi
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: open-api
+  password: dm.auth@2k22-open#api
+metaSortKey: -1652672120229
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
